@@ -1,0 +1,15 @@
+#header {
+    text-align: right;
+}
+
+#header > h2 {
+    font-size: 20px;
+    margin: 0 auto;
+    border-bottom: 5px #005EFF solid;
+    padding-bottom: 15px;
+}
+
+#header > h1 {
+    margin-bottom: 0px;
+    padding-top: 5px;
+}
