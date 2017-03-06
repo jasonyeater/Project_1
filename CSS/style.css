@@ -21,17 +21,27 @@
     display:flex;
 }
 
+.pic > img {
+    max-width: 80px;
+    padding-top: 1px;
+}
 
+.pic {
+    width: 0%;
+}
 
+.row {
+    margin: 0 auto;
+}
 
+.container-fluid {
+    padding: 10px;
+}
 
-
-
-
-
-
-
-
+.main-img {
+    text-align: center;
+    padding: 15px;
+}
 
 
 
@@ -60,7 +70,7 @@
     width: 8.33%;
 }
 .col-2 {
-    width: 16.667%;
+    width: 16%;
 }
 .col-3 {
     width: 25%;
