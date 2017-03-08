@@ -43,6 +43,35 @@
     padding: 15px;
 }
 
+.left > img {
+    max-width: 200px;
+}
+
+.middle > img {
+    max-width: 200px;
+}
+
+.right > img {
+    max-width: 200px;
+}
+
+.bottom {
+    padding: 10px;
+    padding-bottom: 50px;
+}
+
+.left {
+    text-align: center;
+}
+
+.middle {
+    text-align: center;
+}
+
+.right {
+    text-align: center;
+}
+
 
 
 
