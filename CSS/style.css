@@ -72,6 +72,30 @@
     text-align: center;
 }
 
+.bronco {
+    padding-left: 68px;
+    padding-bottom: 20px;
+}
+
+#img-bottom {
+    border-bottom: 5px #005EFF solid;
+    border-top: 5px #005EFF solid;
+    background: url("ford-logo-3.jpg");
+    background-color: #cccccc;
+    background-repeat: no-repeat;
+}
+
+.middle > img {
+    padding-top: 14px;
+}
+
+.right > img {
+    padding-top: 14px;
+}
+
+.left > img {
+    height: 160px;
+}
 
 
 
