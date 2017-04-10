@@ -38,15 +38,33 @@
     padding: 10px;
 }
 
-.main-img {
-    text-align: center;
-    padding: 15px;
+.truck {
+    padding-top: 15px;
 }
 
-.left > img {
-    max-width: 200px;
+.left > .center-block > img {
+    width: 300px;
 }
 
+.left-2 > .center-block > img {
+    width: 300px;
+}
+
+.left {
+    text-align: -webkit-center;
+    padding-top: 12px;
+}
+
+.left-1 {
+    text-align: -webkit-center;
+}
+
+.left-2 {
+    text-align: -webkit-center;
+    padding-top: 20px;
+}
+
+/*
 .middle > img {
     max-width: 200px;
 }
@@ -54,12 +72,14 @@
 .right > img {
     max-width: 200px;
 }
+*/
 
 .bottom {
     padding: 10px;
     padding-bottom: 50px;
 }
 
+/*
 .left {
     text-align: center;
 }
@@ -71,11 +91,14 @@
 .right {
     text-align: center;
 }
+*/
 
+/*
 .bronco {
     text-align: center;
     padding: 15px;
 }
+*/
 
 #img-bottom {
     border-bottom: 5px #005EFF solid;
@@ -86,6 +109,7 @@
     background-position: left;
 }
 
+/*
 .middle > img {
     padding-top: 14px;
 }
@@ -97,6 +121,7 @@
 .left > img {
     height: 160px;
 }
+*/
 
 .paragraph > article > h2 {
     color: #005EFF;
@@ -105,6 +130,7 @@
 
 .paragraph {
     border: 2px #005EFF solid;
+    margin-top: 15px;
 }
 
 .paragraph > article {
